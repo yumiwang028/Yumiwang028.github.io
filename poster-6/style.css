@@ -1,0 +1,138 @@
+body{
+    background-color:antiquewhite;
+    background-image: url(leaves.png);
+}
+
+div.poster{
+    background-color:rgb(255, 194, 194);
+    width:75%;
+    margin-left:auto;
+    margin-right:auto;
+    background-image:url('sheep.png');
+    background-repeat: repeat;
+    background-size:contain;
+    background-position:center; */
+}
+/* 1 col grid
+
+/* div.container {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+div.col {
+    outline:1px solid white;
+    width:55%;
+    overflow:hidden;
+}
+div.w1-2 {
+    width:50%;
+} */
+
+
+
+div.logo {
+    font-size:50px;
+}
+
+
+div.w1-4 {
+    width:25%;
+}
+
+div.w2-4 {
+    width:50%;
+}
+
+div.w3-4 {
+    width:75%;
+}
+
+div.w4-4 {
+    width:100%;
+}
+
+div.small {
+    text-align: center;
+    font-size: 30px;
+    font-family: Helvetica;
+    color:burlywood;
+}
+
+div.text {
+    font-size:120px;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    color:white;
+    transition:0.5s;
+}
+
+span.text {
+    transition:0.5s;
+}
+/* rule 1 */
+
+div.text.one {
+    font-size:40px;
+}
+div.text.two {
+    font-size:80px;
+}
+div.text.three {
+    font-size:120px;
+}
+
+
+
+/* rule 2 */
+
+/* div text boxes rule 2 */
+
+div.text.A {
+  
+}
+div.text.B {
+   
+}
+div.text.C {
+   
+}
+
+/* span text boxes rule 2 */
+
+span.text.A { 
+ 
+    
+}
+span.text.B {
+   
+}
+span.text.C {
+    
+}
+
+
+
+/* rule 3 */
+
+div.text.X {
+    text-align:right;
+}
+div.text.Y {
+    text-align:left;
+}
+div.text.Z {
+    text-align:center;
+}
+
+/* span text boxes rule 3 */
+
+span.text.X {
+    text-align:right;
+}
+span.text.Y {
+    text-align:left;
+}
+span.text.Z {
+    text-align:center;
+}
