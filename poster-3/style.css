@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(126, 197, 255);
+    background-color:rgb(215, 230, 241);
 }
 
 div.poster{
@@ -10,7 +10,7 @@ div.poster{
 }
 div.text {
     font-size:120px;
-    font-family:Arial;
+    font-family:'Courier New', Courier, monospace;
     text-align:center;
     color:white;
     transition:0.5s;
